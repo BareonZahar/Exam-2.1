@@ -52,14 +52,13 @@ li{
     top: 30px;
     color: white;
     background-color: rgba(0, 128, 255, 0.56);
-    width: 25%;
 }
 .fit{
      position: fixed;
     top: 550px;
     left: 85%;
     color: #f4f4f4;
-    background-color: rgba(255, 0, 8, 0.75);
+   background-color: rgba(255, 0, 8, 0.56);
     padding: 10px 10px;
 }
 i{
@@ -149,6 +148,9 @@ label{
     .fit{
         left: 60%;
          top: 500px;
+    }
+    .fix{
+        width: 30%;
     }
     header ol{
         margin-right: 100px;
