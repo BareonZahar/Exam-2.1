@@ -49,10 +49,10 @@ li{
 }
 .fix{
     position: fixed;
-    top: 40px;
+    top: 30px;
     color: white;
     background-color: rgba(0, 128, 255, 0.56);
-    padding: 10px 10px;
+    width: 25%;
 }
 .fit{
      position: fixed;
