@@ -58,7 +58,7 @@ li{
     top: 550px;
     left: 85%;
     color: #f4f4f4;
-   background-color: rgba(255, 0, 8, 0.56);
+   background-color: rgba(255, 0, 8, 0.43);
     padding: 10px 10px;
 }
 i{
@@ -163,7 +163,7 @@ label{
 .adres{
     color: darkred;
     font-size: 20px;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 pre{
     font-size: 14px;
