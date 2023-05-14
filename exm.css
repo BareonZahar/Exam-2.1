@@ -29,6 +29,7 @@ h2{
 ol{
     list-style-type: none;
     font-size: 16px;
+     margin-left: -30px;
 }
 header li {
     display: inline-block;
@@ -146,7 +147,8 @@ label{
         width: 80%;
     }
     .fit{
-        left: 70%;
+        left: 60%;
+         top: 500px;
     }
     header ol{
         margin-right: 100px;
